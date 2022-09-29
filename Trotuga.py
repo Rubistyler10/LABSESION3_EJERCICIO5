@@ -1,4 +1,4 @@
-from turtle import *
+from turtle import * la tortugita
 
 p = Screen()
 p.setup(1000,800)
